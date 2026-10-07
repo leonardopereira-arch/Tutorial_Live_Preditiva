@@ -1,4 +1,4 @@
-import python as pd
+import pandas as pd
 df = pd.read_csv("arquivo.csv")
 df2 = df
 print(df.shape)
